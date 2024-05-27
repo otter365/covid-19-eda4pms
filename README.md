@@ -1,5 +1,5 @@
 # COVID-19 EDA
-Exploratory Data Analysis on COVID-19 dataset. (This is part of the class EDA for Product Managers).
+Exploratory Data Analysis on COVID-19 dataset. (This is part of the EDA class for Product Managers created by Rubik).
 
 This project involves an Exploratory Data Analysis (EDA) on a COVID-19 dataset. The aim is to uncover insights and trends related to the pandemic using various data visualization techniques and statistical analysis.
 
@@ -16,4 +16,4 @@ To get started with this project, clone the repository and follow the steps outl
 The dataset used in this project is sourced from Kaggle [link].
 
 ## Author
-Reuven Sonntag
+Reuven Sonntag (Rubik)
