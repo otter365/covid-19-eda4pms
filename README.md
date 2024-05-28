@@ -13,7 +13,7 @@ This project involves an Exploratory Data Analysis (EDA) on a COVID-19 dataset. 
 To get started with this project, clone the repository and follow the steps outlined in the notebooks.
 
 ## Data Source
-The dataset used in this project is sourced from [Johns Hopkins University GitHub Repository [link]](https://github.com/CSSEGISandData/COVID-19).
+The dataset used in this project is sourced from [Johns Hopkins University GitHub Repository](https://github.com/CSSEGISandData/COVID-19).
 
 ## Author
 Reuven Sonntag (Rubik)
